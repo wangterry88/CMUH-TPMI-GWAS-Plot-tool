@@ -21,7 +21,7 @@ Step3: Plot the GWAS Manhattan QQ Plot.
 
 Input list:
 
-![image](https://user-images.githubusercontent.com/49865575/189603014-ea6675b9-5d6e-4555-a75b-81e84a5104cc.png)
+![image](https://user-images.githubusercontent.com/49865575/189603149-c8aa3703-bf58-4d9c-82a0-077b749db4c2.png)
 
 Step1: Perform TPMI Chip Mapping
 
