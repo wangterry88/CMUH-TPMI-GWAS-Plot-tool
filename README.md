@@ -1,4 +1,6 @@
-This is a GWAS Analysis and Plot Package v2.0
+# GWAS Analysis and Plot Package v2.0
+
+###################################################
 
 This script is to run TPMI Chip mapping and perform GWAS analysis.
 
