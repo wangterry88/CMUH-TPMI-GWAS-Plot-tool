@@ -6,7 +6,7 @@ This script is to run TPMI Chip mapping and perform GWAS analysis.
 
 ########## To Perform this Package ################
 
-sh ./script/Run_TPMI_GWAS_Pipeline.sh
+`sh ./script/Run_TPMI_GWAS_Pipeline.sh`
 
 ###################################################
 
