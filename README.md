@@ -24,19 +24,19 @@ Input list:
 
 ![image](https://user-images.githubusercontent.com/49865575/189603276-8a90954f-cff8-4998-8209-37e9abd2ce3c.png)
 
-Step1: Perform TPMI Chip Mapping
+## Step1: Perform TPMI Chip Mapping
 
 
 ![image](https://user-images.githubusercontent.com/49865575/189602184-1c9205c6-5c95-4240-b89e-f6a01d55a0e7.png)
 
 
-Step2: Perform GWAS Anaysis
+## Step2: Perform GWAS Anaysis
 
 
 ![image](https://user-images.githubusercontent.com/49865575/189602407-156c6843-f3e3-40d7-8ef2-306a01e5649f.png)
 
 
-Step3: Plot the GWAS Manhattan QQ Plot
+## Step3: Plot the GWAS Manhattan QQ Plot
 
 ![image](https://user-images.githubusercontent.com/49865575/189602556-7fd0b8ec-78ac-4fa5-b09b-24c89dcbe2f6.png)
 
